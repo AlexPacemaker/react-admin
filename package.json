@@ -10,7 +10,7 @@
     "@fullcalendar/list": "^6.1.8",
     "@fullcalendar/timegrid": "^6.1.8",
     "@mui/icons-material": "^5.11.16",
-    "@mui/material": "^5.13.3",
+    "@mui/material": "^5.x",
     "@mui/x-data-grid": "^6.5.0",
     "@nivo/bar": "^0.83.0",
     "@nivo/core": "^0.83.0",
