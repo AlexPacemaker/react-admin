@@ -5,7 +5,7 @@ import { tokens } from "../../theme";
 import { mockDataContacts } from "../../data/mockData";
 import Header from "../../Components/Header";
 
-const Team = () => {
+const Contacts = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
 
@@ -74,4 +74,4 @@ const Team = () => {
   );
 };
 
-export default Team;
+export default Contacts;
