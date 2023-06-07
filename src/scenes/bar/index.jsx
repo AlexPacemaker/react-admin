@@ -1,7 +1,7 @@
 import React from "react";
 import { Box } from "@mui/material";
 import Header from "../../Components/Header";
-import BarChart from "../../Components/BarCharts";
+import BarChart from "../../Components/BarChart";
 
 const Bar = () => {
   return (
