@@ -78,7 +78,7 @@ const Calendar = () => {
                       })}
                     </Typography>
                   }
-                ></ListItemText>
+                />
               </ListItem>
             ))}
           </List>
