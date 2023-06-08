@@ -11,4 +11,4 @@
 9. Fullcalendar
 10. Nivo
 
-Watch on GH-Pages: https://github.com/AlexPacemaker/react-admin
+Watch on GH-Pages: https://alexpacemaker.github.io/react-admin/
